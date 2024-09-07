@@ -54,4 +54,4 @@ Sinta-se à vontade para contribuir com o Colorfy! Veja como:
 
 Obrigado à [Imersão Dev Alura com Google Gemini] pelas contribuições no meu aprendizado.
 
-[Imersão Dev com Google Gemini]: https://cursos.alura.com.br/imersoes/aulas/masterclass-google-gemini-estrategias-e-aplicacoes-praticas-c133
+[Imersão Dev Alura com Google Gemini]: https://cursos.alura.com.br/imersoes/aulas/masterclass-google-gemini-estrategias-e-aplicacoes-praticas-c133
